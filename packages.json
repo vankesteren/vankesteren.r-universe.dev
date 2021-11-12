@@ -6,5 +6,17 @@
     {
         "package": "cmfilter",
         "url": "https://github.com/vankesteren/cmfilter"
+    },
+    {
+        "package": "tensorsem",
+        "url": "https://github.com/vankesteren/tensorsem"
+    },
+    {
+        "package": "efast",
+        "url": "https://github.com/vankesteren/efast"
+    },
+    {
+        "package": "privreg",
+        "url": "https://github.com/vankesteren/privreg"
     }
 ]
