@@ -18,5 +18,9 @@
     {
         "package": "privreg",
         "url": "https://github.com/vankesteren/privreg"
+    },
+    {
+        "package": "rpeaks",
+        "url": "https://github.com/vankesteren/rpeaks"
     }
 ]
