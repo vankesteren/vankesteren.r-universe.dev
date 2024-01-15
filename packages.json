@@ -22,5 +22,9 @@
     {
         "package": "rpeaks",
         "url": "https://github.com/vankesteren/rpeaks"
+    },
+    {
+        "package": "pensynth",
+        "url": "https://github.com/vankesteren/pensynth"
     }
 ]
