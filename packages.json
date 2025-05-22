@@ -26,5 +26,9 @@
     {
         "package": "pensynth",
         "url": "https://github.com/vankesteren/pensynth"
+    },
+    {
+        "package": "sfneighbourconnector",
+        "url": "https://github.com/vankesteren/sfneighbourconnector"
     }
 ]
